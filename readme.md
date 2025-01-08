@@ -138,7 +138,3 @@ Create an issue in the repository with:
 - AWS region
 - Python version
 - Steps to reproduce
-
-## License
-
-MIT License - Use freely, maintain attribution
