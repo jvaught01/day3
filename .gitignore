@@ -1,8 +1,8 @@
+.cursor/*
+.vscode/*
+.venv/*
+venv/*
 .env
 .DS_Store
-.venv/*
-venv/
-.*/
-/.cursor/
-/.vscode/
-.cursor/*
+.venv/
+.cursor/extensions/*
